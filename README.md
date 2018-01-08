@@ -1,2 +1,0 @@
-# HelloGoodbye
-First blog post
